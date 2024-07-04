@@ -7,7 +7,7 @@
 
 ## Project Files
 
-The project contains a Jupyter notebook file that uses Python and a concise PDF report in Hebrew for your convenience.
+The project contains a Jupyter notebook file that uses Python and a concise PDF report in Hebrew.
 
 
 
